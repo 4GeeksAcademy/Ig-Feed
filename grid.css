@@ -1,0 +1,50 @@
+#boton{
+    background-color: green;
+    margin: 15%;
+}
+.row{
+    background-color: #F2F2F4;
+}
+
+#tuerca{
+    margin: 15%;
+}
+#cerrar{
+    color: red;
+}
+
+#logo{
+    margin: 2px;
+    font-size: 35px;
+  
+}
+
+#texto{
+    display: inline-block;
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: medium;
+    
+}
+#link1{
+    color: black;
+}
+#link2{
+    color: black;
+}
+#cuadraditos{
+    padding: 10px;
+}
+.filas{
+    padding-left: 34%;
+    margin: auto;
+    padding-right: 39%;
+}
+.espacio{
+    padding-bottom: 10%;
+}
+.insta{
+    margin-left: 10px;
+    font-size: 35px;
+}
